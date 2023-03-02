@@ -1,3 +1,3 @@
-# Heading
+# Zomato Landing Page
 
-This is my first repository. Way to go!
+A simple clone of the Zomato Web page using HTML and CSS.
